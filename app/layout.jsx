@@ -11,9 +11,9 @@ const raveo = localFont({
 
 export const metadata = {
   title: "Text-Blur",
-  description: "A collection of Button Ideas",
+  description: "A text blur reveal animation implemented on Next JS",
   openGraph: {
-    title: "Buttons",
+    title: "Text-Blur",
     images: "/opengraph.png",
     locale: 'en_US',
     type: 'website',
