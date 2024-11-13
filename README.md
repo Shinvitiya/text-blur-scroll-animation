@@ -14,7 +14,7 @@ This project demonstrates a blurred text reveal animation implemented in a Next.
 
   
 
-Provide a link to your live demo if available.
+[View Demo.](https://text-blur-scroll-animation-z64l.vercel.app/)
 
   
 
